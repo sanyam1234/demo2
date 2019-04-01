@@ -1,2 +1,5 @@
 # demo2
-hello world 
+hello 
+
+minor edits are incorporated
+in the file
